@@ -3,9 +3,9 @@
 Each code base has its corresponding datasets. 
 Description below
 ************************
-"Bonita_performance_prediction" datasets - "cpu_d6515_07132020.csv"
+"Oluwasogo_performance_prediction" datasets - "cpu_d6515_07132020.csv"
 
-"Oluwasogo_resource_clustering" datasets - "cpu_d6515_07132020.csv"
+"Bonita_resource_clustering" datasets - "cpu_d6515_07132020.csv"
 
 John_engagement_classifier datasets - "Teaching Quality and Student Engagement Dataset.csv"
 
