@@ -2,7 +2,7 @@
 ##
 Each code base has its corresponding datasets. 
 Descriptions below
-**
+*************************************
 "Oluwasogo_performance_prediction" datasets - "cpu_d6515_07132020.csv"
 
 "Bonita_resource_clustering" datasets - "cpu_d6515_07132020.csv"
@@ -10,7 +10,8 @@ Descriptions below
 John_engagement_classifier datasets - "Teaching Quality and Student Engagement Dataset.csv"
 
 Victor_anomaly_detection datasets - "Network Traffic Data for Intrusion Detection.csv"
-**
+****************************************
+
 Datasets Sources for each Objectives:
 
 Objectives 1 & 2: cpu_d6515_07132020.csv:
